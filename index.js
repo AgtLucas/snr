@@ -1,4 +1,5 @@
-setTimeOut(function () {
+/** @jsx React.DOM */
+setTimeout(function() {
   var React = require('react');
   var Timer = require('./Timer');
 
